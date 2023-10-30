@@ -1,0 +1,29 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\learnAPI\\LearnAPI\\wwwroot\\Upload\\product\\multi\\ML-Ksiazki.png",
+      "PackagePath": "staticwebassets\\Upload\\product\\multi\\ML-Ksiazki.png"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\learnAPI\\LearnAPI\\wwwroot\\Upload\\product\\multi\\middleware.jpg",
+      "PackagePath": "staticwebassets\\Upload\\product\\multi\\middleware.jpg"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.LearnAPI.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.build.LearnAPI.props",
+      "PackagePath": "build\\LearnAPI.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildMultiTargeting.LearnAPI.props",
+      "PackagePath": "buildMultiTargeting\\LearnAPI.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildTransitive.LearnAPI.props",
+      "PackagePath": "buildTransitive\\LearnAPI.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

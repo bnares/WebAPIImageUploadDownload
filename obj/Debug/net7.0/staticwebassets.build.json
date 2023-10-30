@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "Hash": "P/9BdI0b/QOln+zPHp7DyoVn/t6kGZCnsLSUUkrnHLQ=",
+  "Source": "LearnAPI",
+  "BasePath": "_content/LearnAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "LearnAPI\\wwwroot",
+      "Source": "LearnAPI",
+      "ContentRoot": "C:\\Users\\User\\source\\repos\\learnAPI\\LearnAPI\\wwwroot\\",
+      "BasePath": "_content/LearnAPI",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\User\\source\\repos\\learnAPI\\LearnAPI\\wwwroot\\Upload\\product\\multi\\middleware.jpg",
+      "SourceId": "LearnAPI",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\User\\source\\repos\\learnAPI\\LearnAPI\\wwwroot\\",
+      "BasePath": "_content/LearnAPI",
+      "RelativePath": "Upload/product/multi/middleware.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Upload\\product\\multi\\middleware.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\User\\source\\repos\\learnAPI\\LearnAPI\\wwwroot\\Upload\\product\\multi\\ML-Ksiazki.png",
+      "SourceId": "LearnAPI",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\User\\source\\repos\\learnAPI\\LearnAPI\\wwwroot\\",
+      "BasePath": "_content/LearnAPI",
+      "RelativePath": "Upload/product/multi/ML-Ksiazki.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Upload\\product\\multi\\ML-Ksiazki.png"
+    }
+  ]
+}
